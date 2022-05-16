@@ -27,14 +27,14 @@ for i in range(1, 201):
 
 # get all professors, ratings, and subjects taught
 professor = driver.find_elements(By.XPATH, '//div[@class="CardName__StyledCardName-sc-1gyrgim-0 cJdVEK"]')
-rating = driver.find_elements(By.XPATH,'//div[@class = "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 kMhQxZ" or '
-                                       '      @class = "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 fJKuZx" or'
+rating = driver.find_elements(By.XPATH,'//div[@class = "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 gcFhmN" or '
+                                       '      @class = "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 icXUyq" or'  
                                        '      @class = "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 bUneqk" or'
                                        '      @class = "CardNumRating__CardNumRatingNumber-sc-17t4b9u-2 cDKJcc"]')
 
 subject = driver.find_elements(By.XPATH, '//div[@class="CardSchool__Department-sc-19lmz2k-0 haUIRO"]')
 difficulty = driver.find_elements(By.XPATH, '//div[@class="CardFeedback__CardFeedbackNumber-lq6nix-2 hroXqf"]')
-#link = driver.find_elements(By.XPATH, '//a[@class=="TeacherCard__StyledTeacherCard-syjs0d-0 dLJIlx"]')
+link = driver.find_elements(By.XPATH, '//a[@class="TeacherCard__StyledTeacherCard-syjs0d-0 dLJIlx"]')
 
 
 # populate a list with each
@@ -53,31 +53,32 @@ for d in range(len(subject)):
 difficulty_list = []
 for i in range(1, len(difficulty), 2):
     difficulty_list.append(difficulty[i].text)
-"""
+
 link_list = []
 for x in range(len(link)):
-    link_list.append(link[x].text)
-"""
-#print for debugging purposes
+    link_list.append(link[x].get_attribute("href"))
+
+# print for debugging purposes
 print(professors_list)
 print(ratings_list)
 print(subject_list)
 print(difficulty_list)
+print(link_list)
 # just for separating purpose
 print()
-#printing the length to make sure they are all equal
+# printing the length to make sure they are all equal
 print(len(professors_list))
 print(len(ratings_list))
 print(len(subject_list))
 print(len(difficulty_list))
-#print(len(link_list))
+print(len(link_list))
 
 
 #To CSV
-df = pd.DataFrame([professors_list, ratings_list, subject_list, difficulty_list])
+df = pd.DataFrame([professors_list, ratings_list, subject_list, difficulty_list,link_list])
 df.to_csv('rmp.csv')
-df = pd.DataFrame({'professors_list':professors_list, 'ratings_list':ratings_list, 'subjects_list': subject_list, 'difficulty_list': difficulty_list})
-df.to_csv('rmp1.csv', index=False)
+df = pd.DataFrame({'professors_list':professors_list, 'ratings_list':ratings_list, 'subjects_list': subject_list, 'difficulty_list': difficulty_list, 'link_list': link_list})
+df.to_csv('rmp2.csv', index=False)
 print(df)
 
 driver.close()
