@@ -1,0 +1,1608 @@
+professors_list,ratings_list,subjects_list,difficulty_list
+Deya Brashears,4.3,Education,2.9
+Manuel Gonzales,3.2,History,2.9
+Andrew Barlow,3.7,Social Science,3.2
+Rory Snyder,3.3,Music,3
+Dan Bach,2.7,Mathematics,3.8
+Bruce Millar,3.5,English,2
+Axel Duwe,3.6,Medicine,4.1
+Susan Cooke,4.5,Psychology,1.9
+Joseph Adler,4.1,History,2.3
+Jerry Cross,3.1,Psychology,2.3
+Karen Long,3.9,Science,3.8
+Bob Doerr,3.4,Psychology,2.5
+Oshri Karmon,4.6,Science,3.2
+Jeff Idelson,4.0,Psychology,2.1
+Jann Jansen James,3.7,English,2.9
+Ted Wieden,4.9,Geography,3
+S Sarkis,4.8,Mathematics,2.2
+Helen Kow,4.7,Computer Science,2.8
+Claudia Martinez,3.7,Languages,2.6
+Karen Castle,3.3,Science,3
+Tom Chatagnier,2.9,Not Specified,3.8
+John Masella,4.1,History,1.5
+Jean Hetherington,4.1,Geography,3
+Heidi Salter,4.6,English,2.7
+Ralph Depew,4.8,Physical Education,2
+Teri Fournier,4.8,Psychology,1.8
+Ken White,2.1,Communication,3.4
+K. Valentine,2.6,Communication,2.9
+Bruce Koller,4.0,Economics,2.4
+Warren Hirt,4.9,Science,1.8
+Isabel Izquierdo,4.2,Languages,2.7
+James Magee,4.6,Mathematics,2.6
+Belinda Bush,3.0,Biology,3.9
+Rachel Westlake,2.6,Mathematics,3.4
+Jorge Marquardt,3.6,English,3.8
+Jeffery I. Mock,2.5,Mathematics,3.1
+Mary Ulrich,4.8,Science,2.5
+Neal Skapura,2.8,English,3.3
+Paul Phalen,4.8,Communication,2.5
+Dave Miestrell,0.0,Psychology,0
+Christina French,3.9,English,3
+Catherine MacHalinski,4.1,Science,3.3
+Greg Tilles,4.1,History,1.9
+Monte Collazo,3.5,Mathematics,2.9
+Robert Burns,4.2,Computer Science,2.6
+Vincenzo Pinto,3.8,Mathematics,1.7
+John Robinson,4.0,English,2.2
+Elane Rehr,3.9,Psychology,2.2
+L Borowski,3.4,Chemistry,3.4
+Ole Mols,3.7,Chemistry,3.3
+Tobey Kaplan,3.8,English,1.8
+Brian George,1.5,History,3.3
+. Zimmerman,3.2,Music,1.9
+Amy Farhood,4.8,Physical Ed,1.7
+Rick Flores,4.8,Music,2.1
+Ratha Ramoo,2.2,Economics,4.4
+. Sawrey-Kubicek,4.1,Health Science,2
+Tom Barber,4.6,English,2
+James Rawls,4.2,History,3.1
+Joseph Smigelski,2.8,English,3.2
+Mm Riccio,4.4,Health Science,1.4
+Phil Farmer,3.4,Mathematics,3.8
+David Vela,4.4,English,3.6
+Scott King,4.9,Graphic Arts,1.8
+A Shulakoff,2.3,English,3.6
+Tim White,4.6,Music,2.6
+Michele Krup,4.2,Fine Arts,2.6
+Don Tetzloff,4.8,Law,1.3
+Sheri Ayers,4.8,Physical Ed,1.7
+Eva Cohen,4.9,Graphic Arts,2.3
+Pod,0.0,Mathematics,0
+Holly Kresch,2.7,Mathematics,3.7
+Nancy Zink,4.2,English,2.9
+Stan Strosser,4.3,Economics,2.6
+Fredric Johnson,1.7,Music,2.7
+Mark Foley,3.5,Social Science,1.7
+Gabrielle Weitzel,3.3,Biology,4
+Ken Vonberg,3.2,Computer Science,1.9
+Michael Connor,4.0,Physics,4
+Dave Johnson,4.2,Mathematics,3.5
+Theresa Flores-Lowry,4.4,Physical Ed,3.2
+Barbara Hamm,4.8,English,1.4
+Pam Streitfeld,3.8,Anthropology,3.4
+Thomas Hu,3.7,Mathematics,3.2
+Carole Chapman,4.7,Information Science,3
+Leslie Month,3.6,Mathematics,3.5
+L Lema,3.2,Communication,3
+Nancy Miller,2.9,Biology,3.7
+A Alabovskaya,1.9,Mathematics,3.6
+Tina Levy,3.2,Mathematics,3.3
+E Angelakos,4.0,Physical Ed,1.3
+Colin Sacks,4.7,Psychology,2.3
+Robert Eustes,3.5,Culinary Arts,2.5
+Jim Moran,3.5,Mathematics,3
+Ginny Horner,4.0,Mathematics,3
+Buzz Holt,4.0,History,1.9
+Peter Churchill,3.0,Business,2.7
+Jennifer Enzminger,3.9,Languages,3.3
+Rick Risbrough,4.6,Psychology,1.9
+Ted Boone,4.2,Political Science,2.3
+Lenore Gallin,2.1,Anthropology,3.8
+Jim Byrnes,2.7,Social Work,2.5
+Robert Trempy,2.5,History,2.7
+William Bonacci,2.8,Mathematics,3.7
+. Brunner,1.1,Chemistry,4.6
+. Burns,3.3,Chemistry,3.8
+John Ellis,2.0,Chemistry,4.9
+Nader Sharkes,3.0,Culinary Arts,2.2
+Ken Hein,5.0,Fine Arts,1.4
+Jim Kirkwood,4.6,Theater,2.3
+Ed Copra,4.6,Languages,2.1
+J Brecha,3.3,Mathematics,2.9
+Ken Haldan,3.2,History,2
+Anita Pal,3.2,English,3
+Garen Avanessian,2.3,Engineering,3.4
+Steve Ward,4.6,Physical Ed,1.5
+T Leal,4.4,English,3.2
+Karen Edwards,4.8,Mathematics,2.1
+H. Alixopolous,4.0,History,2.4
+B. Hewitt,3.3,Health Science,2.4
+R. Millington,4.6,Physical Ed,1.4
+Ruth Schenk-Pretlow,3.7,English,2.9
+Obed Vazquez,3.4,Sociology,2.7
+Anthony Meixner,2.6,English,4
+. Luhring,2.9,Mathematics,3.3
+Margaret McKenzie,3.8,English,3.3
+Donna Wapner,4.0,Health Science,2.3
+Elisabeth Fournier,4.9,Languages,1.6
+Anne Bergland,2.4,Mathematics,3.4
+. Vonder Haar,2.6,Geology,3.2
+James Jacobs,4.4,English,2
+Deya Hill,3.9,Social Science,2.1
+Sharon Pastori,3.2,English,3.2
+Ellen Peterson,4.9,Psychology,1.8
+Greg Newton,3.9,Psychology,2.5
+H Lee,1.0,English,5
+W. Walensky,3.4,Humanities,2.4
+Deborah Hunt,3.8,Library Technology,2.7
+F Wilhelm,2.8,Physics,3.7
+Suzan Bollich,3.9,Psychology,2.9
+Jean Dickinson,3.8,Journalism,3.1
+Randy Smith,4.3,History,1.4
+Daniel Cruz,2.8,Physical Ed,2.9
+Roger Carne,4.2,Mathematics,2.5
+R Sydlaske,3.3,English,2.2
+Robert Flannagen,1.9,Chemistry,3.9
+Margaret Steele,4.5,History,1.9
+Rene Sporer,4.3,Mathematics,3.5
+ED Pieczenik,4.6,Psychology,3
+Tiffany Higgins,2.6,English,3.1
+G Walls,0.0,English,0
+Tom Hurley,3.5,English,4
+Gary Drebelbis,4.3,Communication,2.3
+Les Abbott,5.0,Theater,4
+ED Walsh,3.9,English,1.9
+Steve Sage,4.5,Music,2.3
+Mitra Shahraz,3.0,Computer Science,3.5
+Daniel Abbott,4.1,Architecture,3
+Bruce Tamura,4.9,Languages,1.9
+Henry Hall,3.8,Humanities,2.1
+Donald Roe,4.5,English,2.8
+Keith Twitchell,4.2,Criminal Justice,1.8
+F Oakes,3.6,Graphic Arts,3.6
+Denise Fuller,0.0,Graphic Arts,0
+John Sappington,0.0,Graphic Arts,0
+Greg Sinsel,0.0,Law,0
+Glen Barker,4.9,Health Science,2.2
+John Dravland,3.6,Political Science,1.8
+Art Mielke,2.0,Philosophy,3.6
+Bruce Lerro,3.1,Psychology,3.4
+Joe Foniz,0.0,Communication,0
+Irina Dugina,4.9,Languages,3.5
+Jim Lord,4.4,Mathematics,2.8
+Clair Brees,2.2,Fine Arts,4.2
+Mark Steidel,5.0,Music,2.5
+Denise Dinwiddie,2.5,English,3.7
+Michael Barnes,0.0,Sociology,0
+D. Martin,4.2,Criminal Justice,1.6
+Katherine Abajian,2.7,English,3.8
+Norma Quan,2.3,English,3
+George Turner,0.0,Geology,0
+D Prapavessi,2.4,Mathematics,3.7
+Jessica Inclan,3.0,English,2.7
+Judy Myers,4.1,English,2.5
+Andrea Weber,0.0,Theater,0
+Robert Cain,0.0,Film,0
+Peter Brooks,4.5,Art History,1.3
+Jan Deshera,0.0,Music,0
+Amer Araim,3.1,Political Science,2
+. Duwe,2.6,Biology,5
+Joanne Burke,4.2,Physical Ed,2.7
+Nancy Malone,4.7,English,2.5
+Nicole Rua,0.0,English,0
+DR. Gamal,4.2,Biology,3.2
+Grace Hill,4.5,Accounting,2.7
+Pamela Hawkins,1.9,Business,3.3
+J Spanger,0.0,English,0
+Cheryl Stewart,4.6,Social Science,2.4
+Rosemary Darabian,3.8,Biology,3.3
+Lynn Delker,3.1,Physics,3.9
+Ted Nirgiotis,3.8,Mathematics,3.4
+Wayne McKinney,4.0,Science,2
+Mary Lundberg,4.1,English,3
+Gary Leon,3.4,Mathematics,2.4
+Kathy Corbett,3.5,Sociology,2.5
+Penny Warner,4.9,Psychology,1.3
+Gloria Reimer,2.7,Accounting,1.7
+Fran Brown,4.9,Fine Arts,1.5
+B Sengupta,2.1,English,3.7
+Pamela McNeilly,3.6,Psychology,1.8
+. Steinberg,4.5,History,1.9
+Shruti Kumar,3.9,Physics,2.9
+Joan Symonds,4.9,Education,1.8
+Jerry Kuderna,4.6,Music,1
+Julie Roemer,3.5,English,2.8
+. Lomax,4.7,Political Science,2
+Shannon Phalen,4.7,Communication,2.3
+Linda Guo,2.0,Languages,4
+Maureen E. O' Leary,4.5,English,1.9
+Diane Livia,2.5,Broadcasting,4
+Sylvi Herrick,0.0,Fine Arts,0
+Stuart Turner,1.7,Mathematics,4.1
+Joan Means,4.3,Education,3
+Kent Campbell,3.5,Chemistry,3.2
+Vernon Small,2.1,Chemistry,3.2
+Robert Keller,3.7,Fine Arts,2.7
+Karl Staubach,4.5,English,1.5
+P Streitfield,4.8,Anthropology,3.5
+Elsworth Ray,3.9,Anthropology,2.7
+Trung Le,3.7,Philosophy,3.3
+C Florence,3.8,Biology,4.1
+Rashaan Meneses,4.9,English,3
+Robert Valcalda,3.5,Computer Science,2.7
+Ken Bergmann,5.0,Music,2.7
+Susan Moore,4.5,Mathematics,2
+J Ojeefe,0.0,English,0
+Steve Kelley,3.8,Biology,2.3
+T Bresnahan,4.2,Philosophy,2.9
+G Castro-Gonzalez,2.0,Mathematics,4.2
+R Spencer-Crompton,0.0,Theater,0
+J Krivicich,4.5,Physics,2.7
+Mark Simons,4.5,Music,2
+Hilary Commins,4.9,English,1.7
+F Campbell-Lavoie,3.3,Mathematics,2.1
+Carol Sebilia,2.7,Sociology,3.6
+Denise Hum,4.8,Mathematics,2.7
+Steve Balassi,0.0,Business,0
+Steve Youn,2.6,Computer Science,2.9
+Marcus Hanschen,0.0,Architecture,0
+Linda Downing,4.8,Languages,2.8
+Dave Domeier,4.8,Accounting,3.3
+Deborah Dahl-Shanks,4.4,Music,2.4
+Albert Greer,0.0,Physics,0
+Elizabeth Carmichael,4.5,English,2.1
+Alayne Cramer,0.0,English,0
+Elizabeth Emigh,4.9,Music,2
+Jill Hemker,0.0,English,0
+Elizabeth Simas,4.1,Communication,2.7
+Marc Carrasco,4.8,Biology,2.9
+Cindy Murphy,4.3,Psychology,1.5
+Carolyn Dukes Alexander,3.5,Information Science,1.5
+Patty Leitner,4.9,Mathematics,2.3
+Aylin Gulbenkian,0.0,Chemistry,0
+. Mohebi,1.6,Mathematics,4.8
+R Opsata,4.8,Communication,1.8
+Santina Mongold,4.1,Science,2.4
+T Blair,4.6,Political Science,2.4
+John Kluessner,4.0,Chemistry,3
+B Jia,0.0,Languages,0
+Lew Disbrow,5.0,English,2
+J Fennesey,4.7,Speech,1.3
+C. Mueller,2.1,Physical Education,3.1
+Jarry Leisure,4.7,Design,1.7
+Maitreyee Chandra,4.1,Biology,3.1
+David Kurtzman,3.1,Mathematics,3.3
+Linda Peloquin,3.8,English,3.3
+S Iannone,0.0,Physics,0
+Steven Newton,2.5,Geology,4.5
+Lenore Craven,3.7,English,3.6
+Joyce Pricco,4.7,Music,2
+Kristie Abbot-Walker,4.0,Languages,2.5
+L Grzanka,2.9,Languages,3.1
+Marcia Goodman,4.4,English,2.5
+Robert Canchola,4.4,Administration Of Justice,2
+Tamar Baskind,3.1,English,2.2
+Katie Gebler,3.5,English,3.4
+Claude Capozzo,5.0,Culinary Arts,3
+Monika Moore,4.3,Geography,1.5
+M Vasudeva,2.3,English,4.5
+D Saldivar,3.8,Languages,2.2
+Kevin Young,2.9,Economics,3.2
+Alison Field,4.7,History,1.9
+J Pearce,0.0,Mathematics,0
+Desiree Holman,2.3,Art,3.7
+Marybeth Hartshorn,4.6,Psychology,2.1
+Sarah Templeton,3.9,Art History,2.4
+Megan Reed,2.4,English,2.9
+Dan Chaffey,5.0,Languages,2
+Stuart Hoekje,3.4,Chemistry,3.4
+Robert Peters,3.4,Education,2.9
+Lisa Sawry-Kubicek,5.0,Biology,2.3
+Jon Bendich,4.8,Art History,1.5
+G Willis,2.9,English,3.4
+J Crawford,4.0,Mathematics,2.8
+Todd Davis,4.1,English,2.3
+Megan Siler,3.1,Film,2.8
+Tanya French,4.5,Biology,2.8
+Jan Barnes,3.8,Computer Science,1.7
+Danni Vilas,3.3,Counseling,1.8
+Jessica Nissim,3.5,English,2.4
+C Roster,3.0,Chemistry,4.2
+Maria Dorado,4.9,Counseling & Career Planning,1.4
+Samuel Boone,0.0,Social Science,0
+Philip Colgan,4.9,Addiction Studies,3.2
+Barbara Villatoro,2.3,Mathematics,3.1
+S Runyon,3.8,Chemistry,3
+Heike Held,3.7,Chemistry,3.4
+Steve Coccimiglio,4.8,Physical Education,1
+Stacey Zupan,4.4,Humanities,2.4
+Michael Leonard,2.5,Art History,3.5
+K Harkness,2.9,Mathematics,3.5
+Karen Talbot,4.0,English,1
+Maureen O'Leary,4.5,English,2.4
+Avril Angevine,4.4,English,3
+Sarah McKinnon,3.9,English,2.5
+S Fetterhoff,1.0,English,1
+Matt Anderson,4.5,Computer Science,3.3
+Patrick Hendricks,3.1,Psychology,3
+John Rasmus,3.0,Economics,3.9
+Timothy Roberts,4.0,Mathematics,3
+John Isles,4.0,English,4
+Ken Zeglin,0.0,Economics,0
+Aynah Askanas,4.4,English,1.8
+Cassy Yonemoto,4.4,Biology,3
+Joe Valdez,3.3,Construction,1.5
+Shelley Brock,2.5,Physics,2
+Kyle Konis,0.0,Physics,0
+Arnoldo Bolanos,4.9,Physical Education,3.3
+Gordon Matsumoto,4.5,Speech,1.1
+Wanda Martin-McGill,3.1,Physical Education,4.3
+Susan Deicke,4.3,Physical Education,3.6
+Leonard Chaplin,5.0,Physical Education,1
+Mike Darr,5.0,Physical Education,1
+Patricia Young,1.0,Chemistry,5
+Mary Littig,3.6,Mathematics,2.7
+Irene Menegas,5.0,English,1.5
+Sviatoslav Inyushin,3.9,Chemistry,2.3
+Brazell Carter,2.6,History,4.2
+T. Gordon Matsumoto,4.5,Speech,2.3
+Roger Mullins,0.0,English,0
+Jim Jacob,3.5,English,2
+Kris Hammar,4.6,Health Science,1.5
+Susanna Hines,4.0,English,1.8
+Alex Jackson,4.6,Art,2.2
+James Harris,2.9,English,2.5
+Tim Murphy,4.4,Accounting,3.3
+Michael Whitaker,4.8,Mathematics,2.3
+Lauren Cross,3.1,Anthropology,3.5
+Richard Klier,2.9,Mathematics,3
+Susanna Bustos,4.5,Psychology,2
+Steed Cowart,4.0,Music,4
+Boris Polishchuk,1.9,Mathematics,3.3
+Celeste Burrows,5.0,Physics,4
+Jorge Morgenstern,4.0,Languages,3.3
+Young-Ming Wu,4.8,Languages,1.7
+Catherine Brewer,3.1,Speech,3.5
+Linda Boyd,1.8,Biology,3
+Ali Kashani,2.2,Humanities,3.5
+Vasili Millias,5.0,Business,4
+Nail Ozboya,4.9,Engineering,2
+M Gummere,4.4,Film,1.7
+Erin Blythe Sanders,3.7,Humanities,2.4
+Rubina Darakjian,4.6,Languages,1.8
+Stern Gaius,3.7,Humanities,2
+Darlene Pratt,2.7,Addiction Studies,3.2
+Alicia Ostarello,1.0,English,5
+Elizabeth Green,3.7,English,2
+William Thomas,0.0,English,0
+Peter Fuller,2.8,Mathematics,3
+Dirk Vandepol,5.0,Biology,2.8
+Virginia Bigelow,3.5,Music,1
+Arvin Paul,4.8,Psychology,1.2
+Craig Cooper,4.8,Administration Of Justice,2.1
+Susmita Sengupta,2.0,Biology,4
+Victoria Olson,4.7,English,1.5
+J Burns,2.9,Speech,1.5
+Lupe Dannels,2.9,Psychology,2.4
+K Hrovat,3.6,Chemistry,3.4
+Lisa Ward,5.0,Physical Education,2
+Bob Tricca,4.5,Chemistry,3
+L Kattan,4.9,Languages,2.3
+Joseph Binger,3.8,History,1.3
+Melissa May,3.3,Biology,4
+Leslie Asher,2.3,Computer Science,3.8
+Diane Pitman,0.0,Art History,0
+Barbara Sawyer,3.3,Journalism,3.7
+Solemann Gueye,3.4,Economics,3
+Elizabeth Wing-Paz,2.8,Humanities,3
+Carolyn Martin,3.3,English,3.3
+Asad Kabir,5.0,Philosophy,4
+Charles Gary,3.5,English,3
+Dore Ripley,4.3,English,2.6
+Ed Trujillo,4.0,Theater,1.5
+Seda Chavdarian,5.0,Languages,3.4
+Patricia Flores,2.5,Art History,2.7
+James Morgan,0.0,Mathematics,0
+Marcelle Holland,3.5,Languages,4
+Erin O'Donnell,4.5,Languages,1
+Kristi Flanagan,3.1,Film,2.7
+Ken Hasbrouck,0.0,Geography,0
+Beverly Muller,4.2,Health Science,2.9
+Hashim Salih,4.7,Languages,2.3
+Jim Byrns,3.0,Speech,2.9
+Elizabeth Wingpaz,3.0,Humanities,2
+Sae Na Hong,3.2,English,3
+Sara Hong,3.1,English,4.1
+William Harlan,4.2,English,3.5
+Rita Delgado,4.3,Counseling & Career Planning,1.5
+Ieata Gomez,0.0,Art,0
+Stewart Winchester,5.0,Biology,1
+Robert Meyer,3.9,Chemistry,4.1
+Kathy Echols,0.0,Biology,0
+Aida Dargahi,2.7,Humanities,3.3
+Nancy Tengler,5.0,English,4
+Solomon Ssenyange,3.5,Chemistry,2.3
+Aimee Klask,4.0,History,3
+Kevin Shambrook,3.2,Physics,2.7
+Elizabeth CO,3.7,Biology,4.1
+Russel Holt,4.9,Engineering,2.7
+Dawnika Blatter,4.5,Geology,2.1
+Mariko Seida,4.4,Languages,2.3
+Nicole Westbrook,4.5,Counseling,1
+Annie Chandler,0.0,Counseling & Career Planning,0
+Tom Neely,2.4,Mathematics,3.8
+Tim Taylor,0.0,Art,0
+Ginelle Hustrulid,5.0,Art,1.3
+Robin Polokoff,4.3,Nutrition,2.3
+K Redmond,3.3,English,3.5
+Holt Brantley,0.0,Geography,0
+Glen Silva,3.4,English,2.7
+Javier Jiminez,3.0,English,4
+Lori Rogala,4.2,English,3.2
+Jay Tontz,2.3,Economics,3.8
+Marshall Hasbrouck,2.9,Geography,2.8
+Shamika Gune,3.2,Biology,4
+Craig Mossman,3.2,Chemistry,3.1
+Samanda Dorger,2.3,Journalism,4.3
+Ryan Moffet,5.0,Chemistry,2
+Jennifer Johnson,4.7,Chemistry,2.6
+Anne Horeis,3.6,Chemistry,3.4
+Catherine MacHalinski,4.4,Biology,2.6
+Jefferey Tsao,3.3,Biology,3
+Jane Dignon,1.0,Physics,4
+Sung Kim,0.0,Art History,0
+Eleni Economides-Gastis,4.6,English,1.8
+Sean McFarland,5.0,Art,1
+Vesna Rodic,4.3,Art History,2
+Loni Kawecki,0.0,Social Science,0
+Laurel De Wolf,0.0,English,0
+Susan Burgess,5.0,English,2
+Glenn Daggs,0.0,Criminal Justice,0
+Amanda Morrison,4.4,Humanities,2.2
+Nancie Kester,5.0,Music,1.8
+Kashi Manijeh,0.0,Languages,0
+Trey Apel,4.2,Geology,3.4
+Tatjana Polyakova,4.3,Architecture,2.8
+Adrienne Calomino,3.7,Mathematics,2.6
+Douglas Spindler,3.7,Computer Science,1.7
+Karen Lopilato,2.0,Economics,3.5
+John Malkovich,0.0,Culinary Arts,0
+Aurthur Robinson,3.9,English,2.9
+Pamela Calabrese,3.6,Psychology,2.4
+Liz Czapla,3.7,Mathematics,3.1
+Deborah Shanks,4.2,Music,1.7
+Lynn Krause,3.3,Social Science,2.5
+Jaseon Outlaw,4.2,Social Science,2.8
+Carol Ladewig-Bronstein,4.4,Art,2.3
+Maria Rita Francia Biasin,4.6,Languages,2.3
+Mike Lang-Moreland,3.6,Biology,1.4
+David King,5.0,English,2
+Lisa Drummond,4.8,Theater,2.4
+Bills Schwarz,4.3,Computer Science,2
+Lynne Robinson,4.5,Art History,1.3
+Jeannine Graham,4.5,Mathematics,2.8
+Farhad Sabetan,4.5,Economics,2
+Robert Ovetz,2.5,Political Science,2
+Jane McKenna,5.0,Library,1
+Sally Stafford,5.0,Physical Education,3
+Bani Wilson,3.5,Languages,2.9
+Meghan Swanson,4.0,English,1
+Maryam Younessi,3.0,Geography,3
+John Holmes,3.2,History,2.2
+Michael Aczon,4.4,Music,2.1
+Dorota Sawicka,4.0,Chemistry,1
+Klara Libman,4.5,Languages,2.3
+Sophie Lesneski,4.5,English,2.5
+Carol Harris,3.8,Physical Education,1.7
+Cheryl Carter,5.0,Counseling,4
+Benjamin Armerding,3.9,English,3.4
+Jared Green,5.0,Not Specified,3
+Maura Corcoran,3.7,Chemistry,3.3
+Romesh Jain,2.5,Engineering,3.5
+Jim Bryns,3.8,Speech,1.5
+Kristen Moore,5.0,Counseling & Career Planning,3
+Amy Lentricchia,5.0,English,4
+Nirt Haese,0.0,English,0
+Richard Samuelson,4.1,Chemistry,1.5
+Randall Thompson,4.7,Business,2
+Leslie Timpe,4.0,Biology,4
+Anna Glaze,4.4,Art History,2.5
+Kathryne Gentzke,4.3,Humanities,1.9
+Susan Vutz,4.8,Not Specified,3
+Virgil Cooper,4.8,Economics,3.5
+Isaac Stormer,3.4,Chemistry,2.9
+Michael Whittier,5.0,Geography,1.3
+Jill Lear,3.0,Geography,5
+Kiala Givehand,4.8,English,2
+Lynn Montelius,1.8,Health Science,4.4
+Rosaria Marinelli,4.0,Humanities,2.9
+Cheryll Lemay,3.0,Counseling & Career Planning,2.2
+Deborah Bauer,3.9,Sociology,2.3
+Miriam Schuman,4.1,Health Science,2.2
+Steve Scholz,0.0,Music,0
+Segal Boaz,3.6,Biology,3.5
+Dennis Franco,5.0,Counseling,1.7
+Neil Allen Nicol,3.3,Physics,3
+Vanessa Tobias,5.0,Science,2
+Licia Morrow,0.0,English,0
+Anna Rodas,0.0,Arts & Sciences,0
+Debra Phelps,4.3,Engineering,1.8
+Sherry Stockdale,0.0,Dance,0
+Paul Erekuff,3.4,Philosophy,2.7
+Elena Jannell,1.0,Psychology,3
+Elham Chishty,4.0,Psychology,1.7
+Oona Hatton,4.3,Theater,2.5
+Trung Nguyen,4.9,Mathematics,2.1
+Andrew Wise,4.3,Mathematics,2.2
+Anthony Chuma,3.3,Chemistry,2.8
+Mark Padilla,4.3,Science,2
+Julianne Martyn,5.0,Education,1
+Scott Warfe,4.2,English,2.9
+Biliana Stremska,4.5,Architecture,2
+Ted Blair,4.8,Political Science,2.4
+Rosie Prieto,4.0,Art History,2.8
+John Henry,4.9,Engineering,1.4
+Susan Brown,4.0,English,3
+William Oye,4.7,Psychology,1.9
+Susan Skilton,3.1,Languages,2
+Rachid Allata,3.3,Music,3.1
+Zaid Shlah,1.5,English,5
+Martin Duwe,4.3,Political Science,2.2
+Laura Brager,0.0,Biology,0
+Herbert Wong,2.5,Psychology,3.2
+Nicole Griffin,4.2,English,2.4
+Brandon Fitzgerald,2.5,Mathematics,3
+Rosa Nguyen,3.0,Chemistry,1
+Anthony Ryan,2.5,Art,3.3
+Tony Bernacchi,4.9,Communication,1.1
+Nicole Diestler,5.0,Theater,4.5
+Sunshine Kirst,4.3,English,2.3
+Joanne Taylor,3.4,Humanities,2
+Erin Freschi,4.5,Education,2
+Tanya Sleiman,3.8,Film,1.7
+Stephanie Foley,5.0,Counseling,1
+Charles Gluchowski,2.3,Chemistry,4.2
+Aaron Tremaine,5.0,Physics,3
+Nathan Haese,3.4,Chemistry,2.8
+Ravi Sincerny,4.5,Criminal Justice,2
+Sin Gieng,3.5,Nutrition,1
+Pauline Homsi Vinson,4.5,English,2.8
+Ian McIver,4.4,Film,1.8
+Jill Schutz,4.9,English,1.4
+Gabrielle Myers,4.3,English,2
+Stephanie Espinoza,4.3,English,3
+Preston Smith,3.4,Mathematics,3.4
+Lakshmi Amarachinta,4.4,Computer Science,2.6
+Katrina Wono,4.2,Mathematics,2.1
+Elena Alvarado-Strasser,4.8,Social Science,2.7
+Erin Holzer,2.6,English,4.1
+Jeuel Wilkerson,4.7,Philosophy,2
+Constanze Weyhenmeyer,2.7,Geology,3.3
+Christina Xydas,4.9,Communication,1.5
+Linda Sanders,3.7,Biology,3.2
+Sneha Dutta,2.5,Sociology,3
+Gamez Aida,4.2,Art,1.3
+Ozlem Guclu,4.3,Mathematics,2.1
+Donna Orviss,4.5,Health Science,2
+Marin Djendjinovic,5.0,Physics,1
+Cheryl Mackey,4.9,Social Science,2.2
+Marilyn Vogel,1.7,Geography,4
+Will Springhorn,4.3,Theater,3.1
+Haley Pollack,4.5,Social Science,3
+Selin Apak,4.7,Mathematics,1.9
+Daniel Smith-Rowsey,4.0,Humanities,1.5
+Michael Holmes,5.0,Biology,2
+Willard Hoskins,4.2,Mathematics,2.7
+Kaki Logan,4.1,English,2.8
+Rokeya Khan,1.5,Economics,3.6
+Reeta Hernes,4.8,Psychology,1.6
+Todd Gullion,0.0,Philosophy,0
+Rob Peters,0.0,Counseling Career Planning,0
+MaryAnn Carrick,4.3,Mathematics,2.4
+Brett Schofield,3.8,Biology,3
+Jenny Moore,2.6,English,3.8
+Shan Masuda,2.3,Architecture,3.3
+Pam Uzzell,4.5,Theater,2
+Cheryl Mortimer,2.2,Economics,3.6
+Lynden Krause,3.7,History,2.8
+Amer Ariam,3.8,Political Science,2.5
+Andy Crockett,3.4,English,2.8
+Vanessa Forcari,4.4,Communication,2.2
+Jamil Hellu,4.6,Art,2.8
+Denise Colby,4.5,Chemistry,3
+Victoria Robertson,4.5,Languages,2
+Fritz Wilhelm,2.0,Physics,5
+Joel Leigh,4.3,Physics,3
+Rosita Harvey,2.7,English,1.3
+Johny Khalilieh,4.9,Mathematics,1.8
+Annelise Wunderlich,3.4,Film,2.5
+Maura Rabbette,4.1,Arts Sciences,2.6
+rob richert,4.8,Film,2
+Kaushayla Ekanayake,4.7,Science,2.3
+Wendy Holt,4.7,Health Science,1.9
+J. Rogers,4.9,English,2
+Andrew Nichols,4.6,English,1.6
+Erin McAdams,5.0,Music,2
+Laurie Phillips,4.6,English,2.4
+Deya Hill,4.2,Education,2.6
+Catherine Warren,5.0,Psychology,1
+Cristoforo Forsyth,3.2,Political Science,2.5
+Mark Anderson,4.1,English,2.1
+Mark Grabiner,4.8,Biology,3
+Jennifer Brock,3.1,English,2.8
+Basudha Sengupta,5.0,English,2
+Carol Okay,0.0,Counseling,0
+Helen Scheer,4.3,Film,2.5
+Sue Handy,2.5,Social Science,4
+Mei Tsai,1.3,Mathematics,4
+Kimberlee Staking,4.4,Sociology,1.6
+Daniel Lopez,3.5,Communication,3.3
+Erika Crowell Altobelli,0.0,Sociology,0
+Alvin Buana,2.9,Biology,1.2
+Williams Evans,0.0,Sociology,0
+Binod Dhakal,2.4,Physics,3.7
+Noorullah Wardak,3.8,Mathematics,3.1
+Michael Ghebreab,1.7,Chemistry,4.4
+Jasolyn Harris,3.9,Sociology,2.6
+Mary Mazzocco,4.2,Journalism,3.4
+Patricia Rowe,3.1,Business,2.5
+Bertram Pinsky,2.7,Physics,3.8
+Daniel Kiely,5.0,Library,4
+Valeria Martinovic,2.3,Chemistry,3.2
+Glenn Willis,1.0,English,1
+Catherine Jester,0.0,Counseling Career Planning,0
+Kimberly Taugher,4.5,Science,3
+Patrick Smith,4.5,Philosophy,2
+Amy Wilson,4.8,Art,2.5
+Heather Adams,3.8,Psychology,3
+Todd Farr,0.0,Counseling Career Planning,0
+Paul Cruel,3.2,Engineering,3.1
+Rosa Cabrera,2.8,English,3.9
+Lynn Wallock,4.0,Health Science,2
+Jeff Chon,3.8,English,2.9
+Ariana Holley,0.0,History,0
+Amit Singh,3.2,Mathematics,2.8
+Nathan Cottam,0.0,Dance,0
+Paul Di Lella,4.8,Administration Of Justice,2.3
+Thomas Kim,1.6,Mathematics,4.1
+Jonathan Knight,5.0,Music,1
+Jerren Lim,0.0,English,0
+Michelle Westbrook,2.9,English,3.4
+Skye Dent,2.6,Journalism,2.8
+Joseph Almeida,3.6,Mathematics,2.9
+Brian Schick,4.2,Computer Science,1.3
+David Melinkoff,3.0,Anthropology,1.8
+Norman Lo,1.5,Economics,4.6
+Michael Wells,4.5,Administration Of Justice,2
+Laura Marostica,4.9,English,1.8
+Tina Schrader-Richter,4.6,Languages,2.5
+Kathaeryne Soluri,5.0,Anthropology,2
+John Roemer,2.0,Physical Education,3.5
+Alice Shaw,5.0,Art,1.3
+Christina Arenas,0.0,Mathematics,0
+James Catherman,5.0,Engineering,3
+Rebecca Gaydos,4.9,English,3.2
+Yufuko Kurioka,5.0,Languages,3
+Zhao Hao,3.3,Physics,3.2
+Rebecca Opsata,5.0,Speech,1
+Christopher Wu,2.6,Mathematics,3
+Seanna Martin,3.6,Biology,3.7
+Adam Casias,0.0,Geology,0
+Lindsey Lanfersieck,3.0,English,3.4
+Garland Brinkley,1.4,Economics,3.4
+Salem Abaalhareth,4.0,Mathematics,2
+Jim Blair,4.1,Business,3
+Jim Ellis,1.5,Geography,5
+Miriam Worsham,4.7,Business,2.3
+Denise Benetatos,3.8,Sociology,2.9
+Jim Finnegan,2.5,Art,3
+Christopher Rozeville,2.8,Languages,3.8
+Sam Johnson,4.7,Computer Science,3
+Caroline Gochoco-Tsuyuki,4.9,Chemistry,2.6
+Darrell Lim,3.0,Physics,2.8
+Ashley Young,4.5,Mathematics,3
+Olga Fish,2.0,Accounting,2.7
+Alexander Harrison,4.3,Computer Science,4.3
+Mark Isham,5.0,Counseling,1.2
+Natalie Kellner,3.9,Communication,2.3
+Brandon Wilson,5.0,Business,2.5
+Ekaterina Fuchs,4.9,Mathematics,2.5
+Jessica Bertine,1.0,Theater,5
+Jasmine Evans,1.5,English,5
+George Arab,4.6,Chemistry,3.5
+Rachel Cunningham,4.8,Geography,2.7
+Sarah Britto,4.3,English,2.8
+Julius Laksono,0.0,Business Administration,0
+Dan Reimer,2.3,Accounting,4
+Patrick Huet,2.4,Physics,4.6
+Kristine Stolakis,4.0,Film,4
+Christopher Dudzik,4.0,Chemistry,3.6
+Jie Wu,4.1,Physics,3.6
+Terry Solomon-Tilley,4.8,English,2.8
+Yunzhu He,0.0,Mathematics,0
+M. Firouzi,3.9,Engineering,3.7
+Cameron Teichgraeber,4.2,Physics,3
+J. Gothard,3.2,English,3.3
+Zahrasadat Alavi,2.8,Computer Science,1.7
+Anna Karelina,3.1,Physics,2.9
+Douglas Long,1.9,Science,4.5
+Yang Liu,0.0,Music,0
+Nicole Opper,5.0,Film,1
+Gong Tian,5.0,Languages,5
+Bethlyn Black,0.0,Biology,0
+Kaushalya Ekanayake,5.0,Chemistry,4
+Kevin White,5.0,Film,1
+Noelle Arms,5.0,Theater,4
+Trevor Gonzalinajec,2.8,Physics,4
+Al Douex,2.0,Health Science,4
+Amy Farhood,0.0,Dance,0
+Queen Mack,2.3,Accounting,4
+Christine Laymon,0.0,Mathematics,0
+Gwen Augustin,5.0,Psychology,2
+Kathryn Webster,0.0,Mathematics,0
+Sheila Lau,0.0,Education,0
+Alicia Jensen,2.0,Geography,4
+Jobic Chan,1.0,Mathematics,5
+Brittany Johnson,2.0,English,3.6
+Ian Ross,3.4,English,3.6
+Vu Nguyen,4.8,Mathematics,2.6
+Deidre Rubcich,4.8,Psychology,2.1
+Sora Aoi,4.0,Film,4
+Jasmine Wade,4.5,English,3
+Jason Segrea,0.0,Administration Of Justice,0
+Jason Hui,0.0,Administration Of Justice,0
+Scott Star,5.0,English,2
+Brian Frank,5.0,Engineering,1.5
+William Breder,4.2,Mathematics,2.7
+Donna Saffell,4.0,Administration Of Justice,1
+Damien Martin,4.3,Physics,4.4
+Gino Forlin,4.5,Music,3
+Steven Peterson,4.4,Addiction Studies,2.4
+Jeffery Johnson,0.0,Chemistry,0
+Zach Straus,4.0,Mathematics,2.5
+Michele Krup,4.3,Art,2.7
+Richard Cartwright,2.9,English,2.7
+Richard Webster,3.2,Mathematics,3.4
+Gregory Tilles,0.0,History,0
+Ryan Weible,5.0,Theater,2
+Hazel Crawford,5.0,English,1.8
+Gwen Agustin,5.0,Psychology,2.7
+Damien Martin,0.0,Mathematics,0
+Andrew Crockett,2.0,English,5
+Glenda Robinson,4.0,English,3
+Steve Takata,3.9,Biology,4.1
+Masumi Kodama,0.0,Culinary Arts,0
+Shannon Padilla,4.6,Communication,2.6
+Kat King,4.7,English,2.5
+Megan Garcia,5.0,English,2.7
+Vu Nguyem,5.0,Mathematics,1
+Emily Fox,3.7,Biology,2.9
+Glenn Appell,3.0,Music,2
+Salvador Rico,3.7,Mathematics,2.5
+Dennis Donohue,4.7,Mathematics,2
+Jennifer Breckon,5.0,Mathematics,3
+Heather Freitas,5.0,Mathematics,2.8
+Bryan Mendez,3.7,Physics,4
+Sharon Brown,3.7,Psychology,1.2
+Deirdre Frontczak,0.0,Philosophy,0
+Victor Asemota,3.0,Biology,4
+Michael McDowell,2.5,Chemistry,4.6
+Erwin Parco,5.0,Engineering,1.5
+Randolph Leptien,5.0,Engineering,2
+Luke Gibbons,0.0,Engineering,0
+Bryan Vicknair,4.6,Computer Science,2.5
+Enrico Banson,0.0,Theater,0
+Joe Masquelier,0.0,Design,0
+Jon Rochmis,2.5,Journalism,3
+Cedric Tai,5.0,Art,2.3
+Taylor Harrison,4.5,Counseling,3.5
+Ricky Gallagher,1.0,Chemistry,4.3
+Takemi Tsuruta,5.0,Art,3
+Cameron Fries,5.0,Physics,3
+Daniel Sherrill,1.0,Geography,5
+Benjamin Olmos,3.5,Business,2.2
+Joslynn Mathis,5.0,Dance,1.8
+Scott Starr,5.0,English,2.5
+Henry Neidermeier,5.0,Communication,3.3
+James Khazar,3.5,Graphic Arts,2.5
+Jonggu Lee,0.0,Accounting,0
+Nick Alvarez,2.4,Philosophy,3.2
+Nancy Cuny,0.0,Education,0
+Jeffrey Johnson,1.7,Chemistry,4.4
+Felix Wasiak,4.0,Science,2.3
+Mason Eastman,4.0,Physics,3.3
+Qi Zhu,4.3,Architecture,2.4
+James Smiley,1.8,Biology,4.4
+David Emojong,4.4,Chemistry,3.3
+Fangfang Song,3.0,Physics,3.3
+Tsai Chi-Fen,0.0,Music,0
+Roger Ward,2.0,Geology,4
+Paul Winsberg,3.8,Computer Science,3.6
+Wesley Wright,4.3,Art,2.3
+Chris Muravez,4.2,English,2.3
+Daria Sheikholmolouki,2.0,Engineering,3.5
+Leslye Tinson,2.5,Psychology,2
+Kristin Fitzpatrick-Ezell,4.0,English,3
+Jason Lau,2.7,Chemistry,4.2
+John Townsend,0.0,Culinary Arts,0
+Kelly Charles,5.0,English,2
+Katherine Gorringe,2.7,Film,2
+Christopher Fioritto,1.8,Mathematics,4.2
+Ashley Parks,5.0,Education,1.5
+Bonnie Holt,0.0,Art,0
+Honora Mitchell,4.5,English,3
+Eric Wang,4.0,Physics,4
+Ameer Thompson,4.8,Biology,2.6
+Sheila Thomas,4.7,Anthropology,2.7
+Ema Thomas,3.5,Art History,3.1
+John Karachewski,3.0,Geography,2
+James Walker,1.3,Geology,3.7
+John Perez,4.8,Communication,2.8
+Vladimir Cherkassky,3.5,Mathematics,3
+Larissa Seay,3.5,Psychology,2
+Elizabeth Eckford,4.5,English,2.9
+John Van Camp,1.6,Chemistry,4.6
+Valerie Connors,4.0,English,3
+Elizabeth Keddy,0.0,Biology,0
+Rebecca Triano,3.7,Chemistry,4
+Andrei Grigoriev,3.3,Computer Science,3.3
+Laura Rivera,4.3,English,3.1
+Sonoiki Eberechukwu,3.5,Health Science,4.1
+Sherry Ayers,3.0,Physical Education,2
+Ian Ziraldo,2.0,Chemistry,4.4
+Denise Saldivar,0.0,Languages,0
+Kendra Diaz-Ford,5.0,Psychology,2
+Shelly Pierson,1.0,Biology,4.5
+Lynn Harden,1.0,Geology,4
+Julie Jaecksch,4.5,Administration Of Justice,2.5
+Erika Harden,5.0,Geology,3
+Vincent Rozalski,4.5,Psychology,2.7
+Daniel Wasik,5.0,Biology,4
+Derek Lan,0.0,History,0
+Tess Brandt,4.3,English,3.3
+Dana Priebe,4.0,Psychology,3
+Girlie Sison,5.0,Chemistry,3
+Seema Saharan,5.0,Mathematics,2
+Kent Haldan,1.0,History,5
+Julia Chang,2.3,Biology,3.7
+Anthony Grand,5.0,Architecture,2
+Ivan Hobson,5.0,English,2.4
+Bethallyn Black,3.0,Biology,1.3
+Frank Kluber,0.0,Biology,0
+David Yrueta,4.2,Mathematics,3
+Analisa Brown,2.5,Biology,3.5
+Sean Sokol,3.3,English,3
+Jocelyn Brucelas,2.0,Business,5
+Ardalan Moazeni,5.0,Engineering,1
+Jennifer Murphy,5.0,Biology,2.3
+Christina Tapp,0.0,Design,0
+Jeffery Koch,4.0,Science,4
+Frank Kluber,0.0,Horticulture,0
+Bruno Sablan,2.6,English,3.7
+Huda Hadi,0.0,Mathematics,0
+Kellie Conde,0.0,Counseling,0
+Cyrous Ahmadieh,3.3,Mathematics,4
+Fahima Bhuyan,4.5,Computer Science,2.5
+James Blair,1.0,Business,4
+Sophia Kraemer-Dahlin,3.5,English,3
+Freddy Martinez,4.5,English,3
+Ronald Rusay,3.0,Chemistry,5
+Robin Heinemann,0.0,Social Work,0
+Samantha Shaw Ward,3.0,Engineering,3
+Jane Brecha,4.0,Mathematics,2
+James Hardy,4.0,Architecture,2
+Ryan Rey,2.0,Music,3
+Bruce Brumfield,1.0,Engineering,3
+J. Read Vanderbelt,0.0,Mathematics,0
+Arthur Mielke,1.0,Philosophy,5
+Margarita Duque de Castela,2.0,Humanities,4
+Ignacio Lopez-Pena,2.9,Chemistry,3.9
+Jeffrey Unruh,1.5,Geology,4
+Mohammad Iesa,0.0,Accounting,0
+Maria Dawson,0.0,Counseling,0
+Michael Wallace,0.0,Computer Science,0
+Mona Khabiri,1.0,English,4.8
+Jennifer Campbell,0.0,Languages,0
+Alberto Aranda,4.0,Counseling,2
+Sripriya Parthasarathy,4.8,Computer Science,2.3
+Mary Vasudeva,0.0,English,0
+Heather Blackmore,4.8,Film,1.6
+Emily Moss,5.0,Library Technology,2.5
+Kevin Powell,5.0,Accounting,2.4
+Joanne Strickland,5.0,Computer Science,1
+Paula Bryson,0.0,Education,0
+Anne Flatley-Nott,0.0,Psychology,0
+Sarah Young,0.0,Art,0
+Caitlin Clausen,5.0,Chemistry,3
+Jennifer Sawyer,4.0,Chemistry,2
+Michael Kassin,5.0,Business,4
+Carrie Million,0.0,Education,0
+Carrie Million,0.0,Psychology,0
+Wendy Poling,5.0,English,1.5
+Gwen Lang,0.0,Science,0
+Rita Marcon,3.0,Biology,3
+John Matthesen,5.0,Culinary Arts,1
+Kristen McLeran,5.0,Administration Of Justice,2.3
+tomas barber,0.0,English,0
+Clayton Florance,2.7,Biology,5
+Jay Jackl,3.1,English,3.5
+Denise Saldivar,0.0,Fine Arts,0
+Chieh Kuo,1.0,Biology,2
+Lorna Valentines,0.0,English,0
+James Mount,0.0,Computer Science,0
+Colleen Shipp,0.0,Medicine,0
+Wing Kam,0.0,Art,0
+Michael Sandberg,1.0,History,1
+Martina Ebesugawa,0.0,Education,0
+Jay Shin,0.0,Geology,0
+Jessica Lopez,5.0,Counseling Career Planning,2
+Jessica Barksdale,3.4,English,2.8
+Kathleen Laity,2.4,Psychology,3.3
+William Hammond,0.0,Computer Science,0
+Demetri Papamichalis,5.0,Physics,3
+Gail Sporer,0.0,Mathematics,0
+David Marsh,5.0,Administration Of Justice,1
+Shelley Gillett,4.8,Mathematics,2
+Barbara Hewitt,3.4,Health Science,2.4
+Cyrus Ahmadieh,3.5,Mathematics,3.4
+Graham Bowman,3.8,English,2.6
+Martha Dixon,4.0,Science,3.9
+Kevin Martin,5.0,Criminal Justice,3
+Olga Gutkina,4.2,Mathematics,3
+Gary Budd,3.2,English,3.3
+Gary Triebwasser,3.7,Mathematics,3.1
+James Hoffmann,4.5,Biology,4
+Jacqueline Ponciano-Babb,3.8,Physical Education,2.4
+Seanna Ziehlke,4.4,Biology,3.2
+Carrie England,1.0,English,2
+Elizabeth Tomlin,3.5,Music,2
+Kimyo Hsieh,4.0,Biology,4
+Sergio Verbis,4.7,Administration Of Justice,2
+James Carroll,3.8,Administration Of Justice,3.8
+Jacqlyn Vetter,4.0,English,2.6
+Jacqueline Bergman,5.0,Nutrition,2.5
+Lisa Ratchford,3.5,Sociology,2
+Meghan Westlander,5.0,Physics,2.7
+Milagros Ojermark,4.3,Languages,2.7
+Firouzeh Zandi,1.9,Computer Science,2.5
+Teresa (Tess) Perko,4.1,English,2.8
+Dorian Eidhin,3.8,Writing,3.4
+Yee Man Tse,4.2,Mathematics,2.5
+Chris Marker,4.9,Art,2.2
+Joseph Lambert,4.2,Architecture,3.2
+. Chlarson,4.0,History,2.5
+Fernando Gallo,4.1,Journalism,2.4
+Katherine Watson,3.8,Biology,4.4
+Iffat Batool,2.8,Chemistry,3
+Patricia Allred,3.3,Geography,3.2
+Julia Willsie,0.0,Biology,0
+Helen Demarco,4.0,Health Science,2.6
+Kathleen Normington,3.6,Communication,3.3
+Hillary Adams,4.6,English,2.1
+Ray Gilmore,3.2,Business,2.3
+Giovanni Biasin,4.6,Languages,2.4
+Ramesh Narasimhan,4.0,Mathematics,2.3
+Samuel Lipson,4.0,Chemistry,3.5
+Bill Hammond,3.7,Computer Science,2.4
+. Castro-Gonzales,1.9,Mathematics,3.9
+Hannah Tandeta,3.5,Art History,3.5
+John Sinsel,3.5,Criminal Justice,2.4
+Eigen KA,1.3,History,3.3
+Christopher Ybarra,5.0,Accounting,3
+John Polos,0.0,Biology,0
+G Appell,4.6,Music,1.5
+Laury Fischer,4.3,English,3.9
+Ann Piper,3.6,Art History,3
+Neil Pettijohn,3.5,Philosophy,3.3
+Renato Escudero,3.5,English,4.2
+Neil Chlarson,2.5,Social Science,3.7
+Tarra Lyons,2.3,Art,4.2
+Claudia Eckelman,3.5,Business,2.6
+Tamar Kirschner,0.0,Library Technology,0
+Deborah Frasier,2.7,Chemistry,3.1
+aleksandr pevzner,1.0,Biology,5
+Mariano Resendez,0.0,Horticulture,0
+Gargi Kulkarni,2.0,Biology,2
+Lynette Montgomery,3.9,Fine Arts,2.8
+Hideo Nakano-Hiraki,4.7,Counseling,1.3
+Debra Stevens,3.6,English,2.8
+David Pintado,4.0,Health Science,3.2
+Kristi Fox,3.7,Biology,3.8
+Marilyn Green,3.2,Mathematics,3.9
+Michael Kessler,5.0,Culinary Arts,1.5
+Beverly Symmank,5.0,Chemistry,4
+Tom Judge,4.0,Mathematics,4
+Jayne Smithson,4.3,Anthropology,2.3
+Lisa Smiley-Ratchford,3.6,Sociology,2.4
+Ann Krooth,2.5,English,2.5
+Stewart Fogg,3.7,Computer Science,3.3
+Oliveira Willer,2.6,Chemistry,4.4
+James Daly,4.1,Psychology,2.2
+Alexandra Dutton,5.0,Art,1
+Carolyn Seefer,4.4,Business,2.3
+Gebler Nancy,5.0,English,1
+Dana Krider Busche,4.6,Psychology,2
+David Badal,0.0,Mathematics,0
+Anton Revenaugh,0.0,Anthropology,0
+Bruce Cook,3.7,Music,2.8
+Christopher Price,4.5,Philosophy,2.8
+Kimberlee Hunter,3.2,Speech,3.4
+Ching Lin,3.3,Physics,3.3
+Anjana Parker,3.7,Chemistry,3.3
+Ronald Page,4.0,Mathematics,2.6
+Joseph Krivicich,5.0,Physics,2
+Amy Zink,3.1,English,2.7
+Eric Katz,2.9,Biology,4
+William Adreopulos,0.0,Computer Science,0
+R Schmidt,4.4,English,3.3
+Melody Keller,5.0,Psychology,1.5
+Katherine Graham,2.5,History,4
+Amanda McDonell,2.3,Geology,2.3
+Angela Bever,4.8,Education,2.5
+Jennifer Murphy,5.0,Speech,2.3
+Farzan Riazati,3.3,Mathematics,2.7
+James Noel,3.2,English,3.3
+Jackie Halm,3.2,Humanities,2.5
+Michael Cheung,3.7,Languages,2.9
+Jessica Hughes,4.2,Literature,2.8
+Leif Pallesen,4.1,Biology,3.9
+Margarida Castela,3.1,Humanities,3.1
+Cynthia Dickerson,3.0,Psychology,2.3
+Bob Eddy,4.1,Business,1.7
+Guillaume Fournier,5.0,English,2.4
+Steve Grant,0.0,English,0
+Sandhya Patlolla,5.0,Economics,2
+Shahin Tajbakhsh,5.0,Computer Science,2.5
+Michael Levitin,3.0,Journalism,4
+Sean Nowicki,3.8,Art History,2.7
+Jacqueline Halm,4.3,Humanities,3.7
+Lysa Russo,4.8,Languages,2.3
+Kimberly Valmore,3.0,Dance,3.1
+Mike Scalzi,3.4,Philosophy,3
+Howard Jordan,4.7,Administration Of Justice,2.2
+William Golightly,3.9,Physics,3.8
+Stewart Lehman,3.5,Administration Of Justice,2.6
+Jacob Vanvleet,4.6,Philosophy,2.4
+Camille Santana,3.8,Counseling Career Planning,1.8
+Anne Kingsley,4.7,English,2.8
+Laurie Sample,4.7,English,2.3
+Randall Creighton,5.0,Music,2
+Nick Schneider,4.5,English,1.8
+Karl McDade,4.6,Fine Arts,2.4
+Nicole Irias,2.8,Chemistry,3.6
+Read Vanderbilt,4.5,Mathematics,2.7
+William Parks,2.5,Mathematics,2.9
+Katherine Logan,2.8,English,3.3
+Natalya Lebedeva,2.1,Economics,4.1
+Daniel Sitzmann,4.8,Science,3.6
+Owen Lee,4.3,Music,2.9
+Dorene Mazzone,4.3,Political Science,2.6
+Julia Miller,4.2,English,3
+Julia Flanagan-Schmidt,4.7,Languages,1.9
+Robert DiMatteo,4.5,Art,1.5
+Shannon Padilla,4.7,Speech,2.2
+Diana Bajrami,3.9,Economics,3.2
+Amanda Rittenhouse,4.7,Women's Studies,1.4
+Erica Bilodeau,4.5,Chemistry,3
+Gabel Chong,3.6,Engineering,3.5
+Edward Collins,3.8,Geography,2.6
+Kyle Whitmore,4.8,Communication,3
+Svetlana Podkolzina,3.8,Mathematics,3.2
+Lee Rode,4.5,Psychology,2.1
+Dave Faulkner,3.0,Mathematics,2.9
+Kent Halden,3.4,History,2.4
+Claudia Hein,4.4,Chemistry,2.5
+Karen Cruz,5.0,Biology,2.8
+Steve Narin,4.0,Mathematics,3
+Carla Paganelli,3.8,Art,2.8
+Jeannine Stamatakis,5.0,Psychology,1
+Bijan Houshiar,3.7,Computer Science,2.5
+John Rodriguez,2.7,Physics,4.1
+Crina Orac-Sayre,4.9,Chemistry,2.5
+Michael Klieman,3.5,English,3.3
+Jessica Hughes,4.1,English,4
+Daniella Blackburn,2.1,Computer Science,3.6
+Kim-Yo Hsieh,4.3,Biology,3
+Lo Ann Winkler,3.2,Business,2
+Matthew Daube,4.9,Psychology,2.6
+Angeline Catena,3.4,Geology,3.8
+Tony Chern,2.2,Computer Science,3.2
+Tony Kashani,3.6,Film,2.2
+Kristen Koblik,4.5,Art History,2.4
+Ted Walker,3.7,Physics,3.4
+D Zhiv,2.8,Mathematics,2.6
+Randy Weaver,3.6,Administration Of Justice,2.6
+Mike Chisar,3.2,Physical Ed,3.4
+Toru Sugita,3.8,Art,3.7
+Elizabeth Matlock,3.7,Mathematics,3.3
+Tish Young,2.6,Chemistry,4
+Padmini Parthasarathy,4.0,Journalism,2
+Carmen McNeil-Jackson,4.8,Psychology,1.7
+Eric Handy,4.4,Counseling amp Career Planning,2.3
+Takako Nishikawa,4.5,Languages,2.6
+Brian Schaefer,3.5,Languages,2.8
+Rick Gelinas,3.3,Biology,3.7
+Kathryn Eigen,3.5,History,2.9
+Monique Young,3.5,Business,3.8
+Louise Laemmlen,4.8,English,3
+Robert Hasner,2.8,Mathematics,3.8
+Richard Ramos,3.0,Administration Of Justice,3
+Shahbaz Shahbazi,3.6,Business Administration,3
+Beatrice Osborne,3.3,Mathematics,2.9
+Charlie Shi,4.5,Business,1.6
+Caterina Pentcheva,3.9,Computer Science,2
+Marcelle Levine,4.6,History,2.5
+Jane Fisher,3.8,Art,3.2
+Julie Hui,3.8,Anthropology,2.7
+Jamylle Carter,2.7,Mathematics,3.5
+Dee Allen-Kirkhouse,2.8,English,3.4
+Mike Quinn,0.0,Science,0
+Cory Antonakos,4.0,Chemistry,3.9
+Matthew Morrisey,4.5,Administration Of Justice,2.7
+Laura Kapitzky,4.5,Chemistry,3.3
+Dorothy Torre,4.3,Psychology,1.8
+Jennifer Tejada,4.5,Communication,2.4
+Lee Moore,3.7,Communication,3.2
+Mary Snyder,4.5,English,2
+Jill Rogers,3.4,English,2.9
+Kevin Leeper,4.5,Art,2.4
+Charles Gray,3.3,English,2.7
+Isabella Dibari,1.6,English,4.6
+Helen (Han) Lu,4.5,Languages,2
+M Akiyama,4.8,Psychology,1.7
+Shiori Greller,4.0,Languages,2.2
+Vanessa Cotella,5.0,Communication,2.3
+Noelle Lopez,4.4,Psychology,1.4
+Clint Ryan,4.1,Mathematics,2.4
+Cheryl Wilcox,4.5,Mathematics,2.4
+Sanghamitra Niyogi,3.9,Sociology,3.2
+Matt Lee,4.4,Biology,3.3
+Jamie Kulp,4.4,Chemistry,3.4
+Aholibama Escobar,2.5,Chemistry,4.2
+Kylie Smith,0.0,Nutrition,0
+Coral Chaney,1.0,Mathematics,5
+Maria Giuili,3.1,Economics,3.4
+Brian Schaefer,2.8,Speech,2.2
+Nadia Fouladian-Tabris,2.1,Biology,4.4
+Christopher Draa,0.0,Culinary Arts,0
+Abdulrahman Al Dubaie,1.0,Biology,5
+Carol Jensen,2.2,Business,2
+Jean Ruehl,4.0,Chemistry,4.1
+Joe Zermeno,2.0,Biology,4.7
+Rick Godinez,4.5,Art,2
+Bonnie O'Neill,2.9,Film,2.2
+Elizabeth Mayorga,4.6,English,2.4
+Mario Tejada,4.4,Computer Science,2.2
+Marian Blackwell-Stratton,2.0,English,3.8
+Ed Faulkner,2.8,Mathematics,3
+Monica Morcos,3.1,Psychology,2.1
+Joann Conrad,2.2,Anthropology,3.2
+Charles Gibson,5.0,Administration Of Justice,1.7
+Ann Lehr,2.2,English,2.6
+Adithya Mohan,4.6,Mathematics,3
+Mike Wallace,3.5,Computer Science,2.5
+Tara Maginnis,4.7,Theater,1.7
+V. Cherkassky,2.2,Mathematics,3.9
+Mary Ann Irwin,2.8,History,3.3
+Julie Homi,0.0,Music,0
+Ronald Browder,2.0,Culinary Arts,2.3
+Jacob Van Vleet,4.5,Philosophy,3.4
+Terrence Elliott,3.8,Humanities,2.8
+Douglas Dildine,2.9,Theater,2.4
+James Sullivan,3.5,History,2.7
+Stephen Joyce,2.9,Engineering,3.1
+Karen Gard,4.5,Biology,3.3
+Heidi Goen-Salter,4.6,English,2.6
+Poupak Khazaeli Parsa,3.9,Chemistry,2.7
+Tina Wade,0.0,Counseling & Career Planning,0
+Christie Jamshidnejad,4.2,Counseling,1.8
+Joshua Stein,2.4,English,3.6
+Brian McGlynn,4.8,Culinary Arts,2.5
+Chris Draa,4.8,Culinary Arts,3.8
+Paul Bernhardt,4.1,Culinary Arts,2.7
+Cheryl Martucci,2.0,Computer Science,3.4
+Gary Pieroni,2.6,Accounting,3.9
+Martha Laham,4.4,Business,1.9
+Nicole White,4.6,Art,2.2
+Adam Bessie,4.2,English,3.9
+Lorna Valentine,2.8,English,3.9
+Rachael Webster,2.3,Mathematics,3.3
+Hank Stalica,4.1,Computer Science,3.2
+Chris Vettel,4.7,Music,1.9
+Micheal Guo,2.8,Chemistry,3.3
+Kathryn Wilson,3.5,Chemistry,3.7
+Steven Goldenberg,1.7,Physics,4
+S. Pierson,3.8,Physical Education,2.4
+F Loden,4.0,Film,2.3
+Queen Lane,1.6,Business Administration,4.4
+Jamie Nakama,3.8,Anthropology,3
+Dallas Burton,2.9,Physics,3.5
+Jeannie Chiu,3.0,English,2.3
+Jennifer Lyons,5.0,History,2.4
+Yvonne Canada,3.8,Counseling,2
+Daniel Sitzmann,5.0,Health Science,2
+Mark Dietrich,4.7,Computer Science,2.7
+Kitran Colwell,4.8,Physics,3.9
+Susan Browne,3.4,English,2.9
+Luke Damiani,4.8,Art,2
+Arthur King,4.3,Art,2.9
+Troy Bennett,3.9,Computer Science,3.9
+Heather Crowley,4.0,Art History,3.3
+Stephan Watkins,1.9,Business,3.1
+Chris Mercer,4.4,Anthropology,2.8
+Catherine Stitt,3.9,Mathematics,3.6
+Janice Degray,3.4,Chemistry,3.8
+Leo Bersamina,4.3,Art,2.9
+Doug Michael,4.6,Music,2.5
+Christina McDade,0.0,Languages,0
+Lindsay Wylie,4.6,Mathematics,2.8
+Trevor Jule-Frost,4.7,English,2.3
+Shaeehea Hollis,2.6,Counseling amp Career Planning,2.8
+Toby Gloekler,5.0,Criminal Justice,3
+Ruth Miller,3.5,Humanities,2.9
+Lisa Orta,2.9,English,3.8
+Larisa Wiggins,4.5,Health Science,3.5
+Claudia Abadia,3.2,Mathematics,2.3
+Amelie Brown,2.0,Library,4
+Deborah Lee,2.1,History,3.6
+Rostislav Smirnov,2.8,Mathematics,3.5
+Andrew Combs,2.3,Physics,4.3
+Christopher Duerrmeier,0.0,Addiction Studies,0
+Ron MacAluso,4.0,Accounting,2.6
+Mariam Worsham,5.0,Business,1.4
+Marci Cole Ekberg,4.3,Biology,2.9
+Terrence Elliott,2.5,Music,2.5
+Darren Phalen,4.8,Communication,2.1
+Paul Villa,5.0,Speech,2
+John Hanecak,4.4,Speech,2.5
+Meldy Langager,2.3,Business,4.2
+Sarah McCarter,4.9,Mathematics,1.6
+John Freytag,4.7,Science,3.4
+Kelsey Paiz,4.0,Communication,3.2
+Allan Lacayo,4.3,Business,2.1
+Michael Kasin,2.3,Law,4.3
+Richard Kaeser,4.2,Mathematics,1.9
+James Carroll,5.0,Mathematics,2.3
+Ray Goralka,4.0,Science,3.4
+Danielle Yancey,4.5,Biology,3.5
+Peikun Tsai,3.4,Computer Science,3
+Bryan Clarkson,4.4,Biology,3.1
+Chris Bradley,5.0,Mathematics,2
+Matt Munday,4.8,Counseling,1.8
+Christopher Nickel,3.6,Art,3.6
+Sherry Sank,4.2,Health Science,1.4
+Wanda Bishop,4.6,Physical Education,1.5
+Evangeline Logan,1.0,Architecture,3
+Carol Brown,3.4,English,2.7
+Youcef Hamida,4.7,Physics,3
+Grant Adams,4.9,Architecture,2.2
+Teresa Inchauspe,4.1,Biology,2.8
+Chirstopher Danko,0.0,Business,0
+Hajera Ghori,4.5,English,1.7
+Michael Noonan,4.9,Administration Of Justice,1.7
+Rochelle Burnaford,4.6,Psychology,2.4
+Bill Wolter,4.1,Music,2.8
+Rick Cole,4.8,Languages,2.1
+Keri DuLaney-Greger,4.8,English,2.4
+Cheryl Davis,3.4,Health Science,3.3
+Gerald Olson,2.8,Film,2.6
+Catherine Gebler,5.0,English,3
+Vineeta Hingorani,2.0,Economics,4.2
+Michael Miller,4.7,Business,2.4
+M. Cole,4.6,Languages,2.6
+Mickey Huff,3.9,History,2.5
+Tal Skloot,3.8,Film,2
+Fenno Ogutu,3.4,Sociology,2.4
+Azim Khan,3.5,Biology,4.1
+Stephanie Razo,5.0,English,3
+Yumi Kosaka,4.8,Languages,2.5
+Lisa Brager,4.4,Biology,3.2
+Arek Puzia,4.5,Accounting,3.2
+Jennifer O'Neal,4.4,Social Science,1.7
+Danielle Odom,1.0,Counseling & Career Planning,4
+Jason Mayfield,4.0,Geology,3.6
+T.J. Tabara,3.2,Mathematics,3.6
+William Andreopoulos,3.8,Computer Science,2.2
+Anne Danenberg,4.3,Sociology,2.2
+R Swindle,4.1,English,2.7
+Craig Musburger,3.5,Science,3.2
+Noah Schillo,3.0,Geography,3
+Chris Capozzo,4.8,Psychology,1.9
+Arman Catterson,4.9,Psychology,2.1
+Tom Mowry,4.3,Mathematics,3.7
+Raine Dougan,5.0,Counseling & Career Planning,1.3
+Patrick Moe,4.6,Speech,2.1
+Fred Kennedy,4.1,Computer Science,3.3
+Nicholas Amato,4.6,Computer Science,2.5
+Cathy Fitzgerald,3.8,English,2.8
+Scott Matern,5.0,Biology,3.5
+Rayshell Clapper,4.7,English,2.2
+Shuleen Martin,4.0,Physics,2.7
+Brandon Reyes,4.5,Science,2.7
+Megan Ferrara,4.3,Humanities,2.6
+JoAnn Conrad,1.1,History,4.5
+Kelly Kadi,5.0,English,2.6
+Jeanette Peavler,4.8,Computer Science,1.7
+Nicholas Vasallo,4.8,Music,2.1
+Daniel Seth,3.0,Biology,4.1
+Kelvyn Moran,4.4,English,2.7
+Durrain Ansari-Yan,4.7,Health Science,2.4
+Lisa Margerum,4.0,Biology,4
+Ian Thomas-Bignami,4.4,English,2.6
+Katherine Galvan,3.8,Biology,4
+Richard Glaves,4.8,Biology,3.4
+Kevin Schrecengost,3.7,Geology,4
+Nolan Higdon,4.0,History,2.6
+Commodore St. Germain,5.0,Chemistry,3.2
+Kimberlee Koym,3.3,Film,3.2
+Donna Smith,3.9,Journalism,2.8
+Sahra Bhimji,4.6,Film,3
+Damian Arnaiz,3.1,Chemistry,3.8
+Lindsey Lang,4.2,Mathematics,3.5
+Kim Ly,0.0,Computer Science,0
+Bret Peppo,4.4,Music,1.6
+Jeffrey Miller,5.0,Geography,2
+Christopher Nicholas,3.0,Music,4
+Laura Feren,3.8,Psychology,1.9
+Maria Ku,4.5,Business,3.6
+Matthew McLean,4.3,Art,3
+Heidi Kolen,3.9,Computer Science,2.5
+Andrew Morgan,4.5,Communication,2
+Amanda Perez,3.0,Psychology,3
+Harmen Sidhu,5.0,Physical Education,1
+Krishna Lamichhane,3.7,Physics,3.2
+Dorian Eidhin,4.7,English,2.5
+Christopher Yen,4.3,Health Science,2.8
+Derek Baure,5.0,Physical Education,4
+Emma Rogers,4.0,English,2.9
+Antonia Fannin,4.1,English,3.6
+Ray Faulkenberry,4.7,Psychology,1.7
+Ryan Wallace,4.0,Communication,2
+Samantha Francios,3.9,History,2.6
+Mathieu Razavian,3.5,Engineering,3.2
+Joel Matthews,5.0,Construction,2
+Mohammed Panahandeh,1.9,Engineering,3.5
+Mohammad Panahandeh,4.0,Engineering,3
+Souleymane Gueye,3.5,Economics,3.4
+Meetal Shah,2.7,Mathematics,3.8
+Corinne Gray,3.9,Physics,3
+John Thomas,3.6,English,3
+Kimberly Taugher,4.6,Biology,2.9
+Concetta Gomez,1.7,Mathematics,3.8
+Joseph Lipson,3.1,Chemistry,4
+Frank Ortega,3.7,Sociology,2.4
+Blake Jordan,4.1,English,3.7
+Carolyn Warren,3.3,Counseling,1.5
+Binita Sinha,3.2,Geography,3.1
+Eric Moss,4.5,Business,2.3
+Megan Hansen,4.9,English,2.2
+Charles Needham,2.8,Mathematics,3.5
+Evan Large,4.0,Physics,3.2
+Chien-I Chiang,3.8,Physics,4.1
+Muhammed Gheith,3.6,Physics,3.5
+Darrol Hughes,4.5,Sociology,3.4
+Ira Feldman,1.4,Mathematics,4.3
+Laura Smyrl,2.5,Addiction Studies,4.3
+Katie Graham,2.5,History,3.8
+Mickey Huff,4.7,Social Science,3
+Justin Wembes,5.0,Counseling,1.7
+John Fox,3.0,Sociology,4
+George Malpass,1.0,Engineering,5
+Chalisse Ganzell Forgette,4.1,English,3
+Matt Zebley,4.7,Music,2.8
+Charleen Earley,4.6,Journalism,2
+Karen Toloui,3.3,English,3.5
+Ji Yeon Shin,4.3,Geology,3.9
+Godfrey Ramos,4.9,Sociology,2.4
+Kit Newton,4.2,Mathematics,2.6
+Kemi Aladegbami,2.5,Computer Science,3.1
+Abdulrahman Aldubaie,0.0,Biology,0
+Toby Gloekler,5.0,Administration Of Justice,1.8
+Sandra Gardiner,2.4,English,4.2
+Henry Lantzy,3.5,Mathematics,2.8
+Amanda Montei,4.5,English,2.6
+Anna Levin,4.5,Biology,3.1
+Bill Thomas,3.9,Art,2.4
+Cheryl Davis,4.1,Nutrition,3.3
+Caiqun Yu,4.3,Chemistry,3.2
+Kristina Boynova,4.6,Languages,2.5
+Cailin Mullins,3.4,Physical Ed,3.2
+Caitlin Ensign,4.6,Biology,3.1
+Wayne Larson,4.7,Chemistry,2.9
+Alexander Gash,4.7,Chemistry,2.4
+Mark Messenger,4.7,Fine Arts,1.8
+Christian Morgan,4.2,English,2.3
+Bridget Schaffer,3.5,History,3.9
+Lara Dutto,0.0,Architecture,0
+Christopher Danko,2.2,Business,3.8
+Natasha Kleit,3.7,Architecture,2.7
+Jeremy Cloward,4.6,Political Science,1.9
+Debra Moll,5.0,Languages,3.2
+Farooq Ashraf,2.6,Mathematics,3.4
+Brandon Ignatowski,3.7,Health Science,3.6
+Loc Hunyh,3.0,Computer Science,3.1
+Eric Freidenreich,3.2,Mathematics,2.9
+John Fogli,4.2,Business,2.7
+J Najarro,3.8,Business,2.3
+Bashir Shah,3.7,Accounting,2
+Christopher Rasmussen,3.2,Humanities,3.2
+Don Linstad,2.6,Mathematics,3.2
+Barbara O'Neil,4.0,Film,2
+Mehrdad Mohebi,1.9,Physics,4.3
+Julie Walters,4.8,Mathematics,2.6
+David Foulds,4.9,Film,2.4
+Danielle Defoe,3.9,English,3.2
+Ken Germann,3.6,Business,2.4
+Faramarz Mortezaie,2.9,Computer Science,2.8
+Julia Willsie,4.6,Science,3.4
+Linda Noveroske-Tritten,4.3,Art History,2
+Dave Simkin,4.3,Physics,2.1
+Anthony Gonzales,4.6,English,2.5
+Nancy Grabow,4.3,Languages,3
+Katy Agnost,4.6,English,2.1
+Richard Giachino,4.3,Film,2
+Jason Carrick,3.4,English,3.6
+Brian J. Raymond,4.3,Mathematics,2.6
+Rosy Lomeli,3.4,Counseling & Career Planning,1.9
+Robert Hawkins,4.5,Communication,2.3
+Teresa Saechou,0.0,Nutrition,0
+Ron Rusay,2.8,Chemistry,3.3
+John Kropf,4.9,Social Science,1.8
+Albert Ponce,3.8,Political Science,3.1
+Pamela Harrison,5.0,Administration Of Justice,2
+Maya Yamato,4.5,Science,2.6
+Luis Escobedo-Sierra,4.4,Languages,2.8
+Jeffrey Smith,5.0,Design,2.5
+Eric Zell,4.6,Speech,2
+Khrystyn Pamintuan,5.0,Counseling,1.7
+Paula Leon-Bravo,4.1,Mathematics,3.1
+David Zimring,4.0,History,3.5
+Mark Alburger,4.1,Music,2.1
+Manijeh Kashi,3.6,Not Specified,2.7
+Xinyi Lai,3.0,Computer Science,3.5
+Elizabeth Gand,4.4,Art History,2.7
+Emmanuel Akanyirige,1.7,Mathematics,3.6
+Steve Goldenberg,3.6,Science,2.9
+Janet Mason,3.2,Family Studies,2.5
+Elizabeth Keddy,3.9,Science,3.6
+Taylor Oliver,3.7,Psychology,2
+Shelly Pierson,1.6,Health Science,3.9
+Yasser Moten,4.5,Communication,2.8
+Monique Iles,3.7,English,3.3
+Carmina Quirarte,3.7,History,2.8
+Eric Clanton,4.0,Philosophy,4.3
+Servando Pineda-Carranza,4.3,Mathematics,3.1
+Lynn Knight,2.6,Mathematics,3.6
+Kristen Colchico,3.2,Health Science,2.9
+Ashley Gardini,4.7,Architecture,2
+Mathew Munday,5.0,Psychology,2.2
+Natacha Cesar-Davis,3.4,Psychology,1.5
+Paul Pitner,4.6,Psychology,1.8
+Dominic Tardivel,4.3,Mathematics,2.8
+Daniela Johnson-Rongstad,4.9,Communication,2.1
+Ryan Melvin,3.7,Computer Science,2.7
+Katrina Keating,4.0,Mathematics,3
+Valerie Greene,4.3,Biology,3.3
+James Hoffmann,4.8,Science,3.5
+Asa Scherer,1.0,Mathematics,5
+Joseph Hickey,3.9,Chemistry,3.8
+Anrisa Fannin,0.0,English,0
+John Corbally,4.5,History,3.1
+Laura Jones-Hagata,4.7,Psychology,2.2
+Raquel Garcia,2.3,Languages,4.2
+Ji Shin,4.3,Geology,3.7
+Nancy Brown,3.4,Sociology,2.6
+Sheree Lin,3.9,Languages,2.7
+M Jacobson,3.1,History,3.2
+Amy Raymond,4.9,Art History,2.3
+Quan Lam,3.4,Mathematics,2.6
+Melissa Anisko,4.6,Mathematics,2.9
+Alan Haslam,4.6,English,1.9
+Andrea Sorce,4.1,Economics,3.4
+Stephen Dove,4.7,Art,1.3
+Parastou Nobari,4.6,Languages,2.6
+Paul Hrycewicz,4.1,Computer Science,3.4
+Lisamarie Russo,4.9,Languages,3.2
+Phillip Williams,2.3,Mathematics,4
+Cassandra Sciortino,4.2,Humanities,2.9
+Ciesiolkiewicz Ireneusz,4.3,Architecture,3.2
+Steven Storer,4.7,Communication,2.9
+Laura Lo,3.6,Computer Science,2.8
+Mark Rinker,4.2,Mathematics,2.1
+Megan Moore,4.3,Health Science,3.4
+Nicole Hess-Diestler,4.8,Theater,3.2
+Paul Sasse,4.4,Science,3.6
+Jose Najarro,1.9,Accounting,3.6
+Daniel Cusimano,4.6,Anthropology,2.5
+Erin Palmer,4.1,Chemistry,3.5
+Steve Johnson,2.8,Anthropology,1.8
+Anna Somayeh Sohi,3.8,Mathematics,2.9
+D. Keith Mikolavich,4.3,English,3.7
+Stacey Norman,5.0,Education,2.2
+Juan Villicana,5.0,Science,1.6
+Darrol Hughes,4.4,Social Science,3.3
+Beth McBrien,4.1,Fine Arts,2.8
+Vida Pavesich,3.3,Philosophy,2.7
+Marcos Garcia,3.4,English,3.6
+Janet French-Rafael,2.2,Languages,4
+Baishali Maiti,2.8,Mathematics,3.5
+Nooshin Jamasbi,3.5,Mathematics,3.5
+Lauren Eastland,2.8,Anthropology,3.9
+Carlos Bazua,4.2,Anthropology,2.4
+Felicia Perez,4.6,Psychology,1.6
+Marina Crouse,4.5,Languages,2.9
+Keith Callerame,2.5,Physics,4
+Adam Perry,4.8,Communication,2.5
+Ellen Beaulieu,3.6,Chemistry,4.3
+Jean Chiar,3.7,Science,3.7
+Kathy Weber,3.8,Mathematics,3
+Charles Shackett,2.8,English,3.6
+Danielle De Foe,2.4,English,3.2
+My Huynh,4.4,Mathematics,2.5
+Peter Willett,3.0,Mathematics,4.1
+Mike Quinn,4.0,Geography,3.1
+Valerie Colber,1.9,Computer Science,4
+Samar Abedrabbo,3.9,Biology,3.6
+Sonia Katdare,0.0,Physics,0
+Patrick Leong,3.3,English,3.5
+Munlok Lum,3.4,Mathematics,3.1
+Gene Khaja,2.7,Computer Science,2.2
+Sam Needham,3.0,Mathematics,3.7
+Yasmin Fathi,3.5,Chemistry,3.7
+Joann Denning,3.8,Graphic Arts,3.3
+Joshua Coito,4.7,English,3.2
+Kenneth White,1.1,Film,4.2
+Carol Rooker,3.9,Biology,3.2
+Achilles Speliotopoulos,3.4,Physics,4.4
+Robert Abele,3.0,Philosophy,4
+Craig Gerken,3.3,Chemistry,3.8
+Deborah Fraiser,2.5,Chemistry,3.4
+E Fischer-Mikolavich,4.1,English,3.8
+Lisa Ang,3.9,English,3.1
+Pauline Vinson,3.9,English,3.1
+Jerome Crichton,3.2,Psychology,3
+Ana-Maria Carbonell,3.2,English,3.2
+Naomi Nezuka,4.8,Languages,2.9
+Ashley Erickson,3.0,Engineering,4.3
+Zahra Asghary,3.4,Mathematics,3.5
+Teresita Saechao,4.5,Nutrition,2.9
+Laura Burns,3.6,Chemistry,4.3
+Seyyed Khandani,4.1,Engineering,2.5
+Karen Bloom,2.3,Biology,4.2
+Erika Wenstrom,4.4,English,3.6
+Eliseo Parra,2.3,Biology,3.9
+Dean Covalt,3.8,Chemistry,4.1
+Kwai Chan,3.9,Mathematics,2.8
+Matthew Powell,3.4,History,2.7
+Helen Cow,4.0,Computer Science,3
+Lora Groppetti,5.0,Education,1
+Hopi Breton,4.7,Fine Arts,1.9
+Akihiko Kumakura,4.9,Languages,1.9
+Sara Stafford,4.5,Music,1
+Elizabeth A. Pirie,4.5,English,3.1
+John Vanderbilt,4.4,Mathematics,2.5
+Janie Vranicar-Lewis,5.0,Education,2.5
+Karin Munoz,4.4,Health Science,1.5
+Liz Cabiles,4.5,Business Administration,2.1
+Matthew Morrissey,4.3,Administration Of Justice,2.9
+Concha Gomez,1.6,Mathematics,3.8
+Mohamed Eisa,4.0,Accounting,4
+Jill Buettner,4.9,English,2.3
+Michael Strait,4.1,Computer Science,2.8
+Diana Mircheva,3.6,Mathematics,3.1
+Scott MacDougall,3.5,Political Science,3.2
+Susan Oksenendler,5.0,Languages,2.7
+Joseph Gorga,4.7,Biology,3.2
+Monte Bairos,3.0,Music,3.5
+Lamine Akaba,3.5,Economics,3.4
+Mohamad Eisa,2.6,Accounting,4.2
+James Wilson,4.5,English,3.3
+Manuel Covarrubias,0.0,Engineering,0
+Jenny Freidenreich,3.3,Mathematics,3.6
+Susan Parkinson,3.9,Biology,3.7
+Blake Longfellow,4.9,Speech,1.8
+Ryan Buckley,5.0,Business Administration,3
+Victor Van Veen,0.0,Psychology,0
+Amr Elkady,3.9,Computer Science,3.9
