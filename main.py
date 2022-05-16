@@ -72,7 +72,7 @@ print(len(ratings_list))
 print(len(subject_list))
 print(len(difficulty_list))
 print(len(link_list))
-#
+
 
 #To CSV
 df = pd.DataFrame([professors_list, ratings_list, subject_list, difficulty_list,link_list])
